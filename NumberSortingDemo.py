@@ -25,4 +25,4 @@ print("Even List:",even)
 print("Odd List:",odd)
 
 combined_list = even + odd
-print("Combined List:",even + odd)
+print("Combined List:",combined_list)
